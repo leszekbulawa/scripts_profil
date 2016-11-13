@@ -1,0 +1,24 @@
+1) Python (skrypty)
+	a)
+		-Prosi użytkownika o podanie imienia i nazwiska
+		-Sprawdzanie roku w którym użytkownik skonczy 100 lat, czy rok ten jest rokiem przestępnym.
+		-Zwrócić wiadomość z informacjami
+			-imię
+			-rok w którym kończy 100 lat
+			-czy jest to rok przestępny
+
+	b) 
+		Otworzyć plik tekstowy (z minimalną ilością 120 słów). Zliczyć wystąpienia każdego słowa i zapisać dane do słownika np: {"slowo": 5, ...}
+		Zwrócić listę tupli posortowanych po  ilości malejąco. np [(slowo1, 5), (slowo2, 7), ...]
+
+2) Django, HTML, CSS (w razie nie znajomoœci django, warto zapoznać się z dostępnym na stronie tutorialem: https://docs.djangoproject.com/en/1.10/intro/tutorial01/ )
+	Przygotować listę Todo tak by można było:
+		-dodawać nowe zadania
+		-odznaczać zrealizowane zadania
+
+	Co musi być w projekcie:
+		-modele z automatycznie dodawanymi datami tworzenia i aktualizacji
+		-panel administratora (django admin)
+		-django template
+
+	Na potrzeby zadania można wykorzystać domyślną bazę SQLite
